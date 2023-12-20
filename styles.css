@@ -1,0 +1,144 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+.mainbox {
+  width: 1300px;
+  height: 1700px; /* will be removed once page is complete */
+  background-color: white;
+  padding: 20px;
+  border: 2px solid black;
+  margin: 20px;
+  text-align: left;
+}
+
+.topbox {
+  width: 400px;
+  height: 130px;
+  background-color: blueviolet;
+  border: 2px white;
+  padding-top: 30PX;
+  padding-left: 20px;
+  text-align: left;
+  font-size: 14pt;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+  float: left;
+  color: black;
+}
+.topsmallbox {
+  width: 200px;
+  height: 130px;
+  background-color: purple;
+  padding-top: 10px;
+  padding-left: 20px;
+  text-align: left;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+  float: right;
+
+}
+
+.linkbox {
+  width: 820px;
+  height: 130px;
+  background-color: blueviolet;
+  border: 2px white;
+  float: left;
+  padding-top: 30px;
+  padding-left: 50px;
+  font-size: x-large;
+  color: black;
+
+  }
+  p {
+    font-size: 12pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    float: left;
+    color: grey;
+  }
+ 
+.box1 {
+  width: 400px;
+  height: 600px;
+  margin: 5px;
+  background-color: gray;
+  border-color: black;
+  border: 5px white;
+  border-color: blue;
+  float: left;
+}
+.box2 {
+  width: 400px;
+  height: 300px;
+  margin: 5px;
+  border-color: black;
+  background-color:red;
+  border: 5px white;
+  float: left;
+} 
+header a:link {
+  color: white;
+  text-decoration: none;
+  font-size: 16pt;
+
+}
+
+header a:visited {
+  color: white;
+ 
+  font-size: 16pt;
+
+}
+
+header a:hover {
+  background-color: darkblue;
+  color: white;
+  font-weight: 300;
+  text-decoration: underline;
+  font-size: 16pt;
+}
+
+main{
+  background-color:white;
+  padding-top: 1px;
+  width: 1000;
+  height: 940px;
+  padding-right:20px;
+  padding-left: 20px;
+}
+
+ .box3 {width: 400px;
+  height: 300px;
+  margin: 5px;
+  background-color:lightblue;
+  border: 5px white;
+  padding-top: 50px;
+  padding-left: 50px;
+  float: left;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+} 
+footer {
+  background-color: white;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: 200;
+  
+}  
+
+
+
+
